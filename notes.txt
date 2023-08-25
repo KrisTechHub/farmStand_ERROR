@@ -1,0 +1,16 @@
+MONGOOSE WITH EXPRESS CRUD APP
+
+1. Run npm intall -y
+2. Run npm i express ejs mongoose
+3. add const express, app, path, nodemon
+4. add index.js and views folder
+5. connect express (app.listen(3000, () => {})) and also mongoose
+6. test connection to express (app.get) and mongoose 
+7. create model folder and file product.js
+8. require('mongoose') in product.js
+9. create schema in product.js
+10. create a model
+11. export the project.js by adding 'module.exports = Product';
+12. Define product model in index.js
+13. add more products to database using insertMany();
+14. 
